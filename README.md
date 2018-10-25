@@ -2,6 +2,8 @@
 
 This is a Chrome extension that applies a different colour theme to the Chrome developer tools.
 
+![Theme Screenshot](https://github.com/jaysuz/material-dev-tools/raw/master/theme.png "Material Theme")
+
 ## Getting Started
 
 Even if this project is in its alpha phase (and thus not available via the Chrome Web Store), you can still get a local
