@@ -11,9 +11,14 @@ copy for testing purposes.
 
 ### Prerequisites
 
-You need to have the the Developer Mode for Chrome extensions activated:
+You need to have the Developer Mode for Chrome extensions activated:
 1. navigate to ```chrome://extensions/```
 2. toggle the _Developer Mode_ switch
+
+As a further requirement, Developer Tools experiments must be enabled and custom UI themes allowed:
+1. navigate to ```chrome://flags/#enable-devtools-experiments```
+2. enable the _Developer Tools experiments_ flag
+3. in the settings panel of your Developer Tools, toggle the _Allow custom UI themes_ experiment
 
 ### Installing
 
