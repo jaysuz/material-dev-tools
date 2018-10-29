@@ -4,8 +4,4 @@
 *.iml
 
 # build
-package.json
-gulpfile.js
-scss/*
-yarn.lock
 

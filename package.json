@@ -1,0 +1,15 @@
+{
+  "name": "material-dev-tools",
+  "version": "0.1.0",
+  "description": "Material Theme for Chrome Devtools",
+  "main": "devtools.html",
+  "author": "Jonas Augsburger <jonas.augsburger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
