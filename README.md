@@ -35,6 +35,23 @@ To test the new theme, make sure the extension is activated and open the Chrome 
 this theme is meant as a replacement for the dark theme, you first need to switch to the native dark theme of the 
 devtools to see any effect.
 
+### Building the styles
+
+To make sure that you are using the most up to date styles, or if you want to make your own adjustments, use the provided
+Gulp task to rebuild from source, first making sure that you have installed the necessary dependencies:
+
+#### NPM
+```
+npm install
+gulp styles
+```
+
+### Yarn
+```
+yarn install
+gulp styles
+```
+
 ## Built With
 
 * [SASS](https://sass-lang.com/) - CSS preprocessing
@@ -43,4 +60,4 @@ devtools to see any effect.
 
 ## Acknowledgments
 
-* The marvelous [Material Theme Plugin](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) for IntelliJ IDEA for colour inspiration
+* The marvelous [Material Theme Plugin](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) for colour inspiration
