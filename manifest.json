@@ -1,7 +1,12 @@
 {
-  "name": "Material Theme",
+  "name": "Material DevTools Theme",
   "version": "0.1",
   "description": "A color theme inspired by the wonderful Material Theme for IntelliJ IDEA.",
   "manifest_version": 2,
-  "devtools_page": "devtools.html"
+  "author": "Jonas Augsburger",
+  "devtools_page": "devtools.html",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Get Material"
+  }
 }
