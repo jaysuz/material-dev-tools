@@ -63,4 +63,31 @@
   .elements-disclosure li.in-clipboard .highlight {
     outline: 1px dotted darkgrey !important;
   }
+
+  .tree-outline li.filter-match {
+    background-color: rgba(216, 206, 147, 0.4) !important;
+  }
+
+  .tree-outline li.overloaded.filter-match {
+    background-color: rgba(216, 206, 147, 0.2) !important;
+  }
 }
+
+:host-context(.-theme-with-dark-background) {
+  .styles-section .simple-selector.filter-match {
+    background-color: rgba(172,228,255, 0.2) !important;
+  }
+  .tree-outline li.filter-match {
+    background-color: rgba(172,228,255, 0.2) !important;
+  }
+  .tree-outline li.overloaded.filter-match {
+    background-color: rgba(172,228,255, 0.1) !important;
+  }
+
+  .node-label-name{color:desaturate( $tag-name-color, 10% ) !important;}
+  .node-label-class, .node-label-pseudo{color:desaturate( $attribute-name-color, 10% ) !important;}
+  .node-label-id{color:desaturate( #7194DA, 10% ) !important;}
+}
+
+.tree-outline li.odd-row{background-color:#212C31 !important;}
+.tree-outline li:hover{background-color:rgba(128,203,207, 0.3) !important;}
