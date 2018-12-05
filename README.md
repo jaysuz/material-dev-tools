@@ -6,8 +6,11 @@ This is a Chrome extension that applies a different colour theme to the Chrome d
 
 ## Getting Started
 
-Even if this project is in its alpha phase (and thus not available via the Chrome Web Store), you can still get a local
-copy for testing purposes.
+The extension can be downloaded via the Google Chrome web store: 
+[DevTools Material Theme](https://chrome.google.com/webstore/detail/material-devtools-theme/pmlofkkoaahmkmmebdkkcljmflocijlo)
+
+If you want to make your own adjustments, you can also clone this repository and sideload the extension, adhering to the installation guidelines below.
+Either way, make sure that the following prerequisites are met before you perform the installation.
 
 ### Prerequisites
 
