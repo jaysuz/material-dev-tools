@@ -10,7 +10,7 @@ The extension can be downloaded via the Google Chrome web store:
 [DevTools Material Theme](https://chrome.google.com/webstore/detail/material-devtools-theme/pmlofkkoaahmkmmebdkkcljmflocijlo)
 
 If you want to make your own adjustments, you can also clone this repository and sideload the extension, adhering to the installation guidelines below.
-Either way, make sure that the following prerequisites are met before you perform the installation.
+Either way, make sure that the following prerequisites are met before you perform the installation. Also, ensure that you have switched to the native dark theme of the devtools to see a difference.
 
 ### Prerequisites
 
