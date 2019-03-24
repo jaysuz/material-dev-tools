@@ -58,6 +58,7 @@ $text-color: #C3CEE3;
   --toolbar-bg-color: #1e2a30 !important;
   --toolbar-hover-bg-color: #243137 !important;
   --selection-fg-color: #cdcdcd !important;
+  --selection-bg-color: rgba(128,203,207, 0.5) !important;
   --selection-inactive-bg-color: #212C31 !important;
   --tab-selected-fg-color: #eaeaea !important;
   --tab-selected-bg-color: #0d2026 !important;
@@ -67,6 +68,8 @@ $text-color: #C3CEE3;
   --divider-color: #3B4950 !important;
   --focus-ring-active-shadow: 0 0 0 1px rgba(172 ,228, 255, 0.6) !important;
   --focus-ring-inactive-shadow: 0 0 0 1px #5a5a5a !important;
+  --editor-selection-bg-color: rgba(128,203,207, 0.5) !important;
+  --editor-selection-inactive-bg-color: rgba(128,203,207, 0.3) !important;
 }
 
 .-theme-with-dark-background {

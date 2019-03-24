@@ -77,15 +77,15 @@
     filter: hue-rotate(-240deg) !important;
   }
   .cm-execution-line {
-    background-color: #4B1515 !important;
+    background-color: rgba(darken($accent-color, 10%), 0.6) !important;;
   }
   .cm-execution-line-outline {
-    outline: 1px solid lighten(#4B1515, 20%) !important;
+    outline: rgba(darken($accent-color, 5%), 0.6) !important;
   }
   .cm-execution-line-tail {
-    background-color: lighten(#4B1515, 10%) !important;
+    background-color: rgba(darken($accent-color, 2%), 0.6) !important;;
   }
   .cm-line-with-selection .cm-column-with-selection.cm-search-highlight:before {
-    background-color: lighten(#4B1515, 15%) !important;
+    background-color: rgba(darken($accent-color, 10%), 0.4) !important;
   }
 }
