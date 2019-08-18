@@ -1,3 +1,5 @@
+(Please be aware that this repository or rather the connected Chrome Extension is now obsolete, as the maintainers of the official Material Theme Plugin have created their own version which can be found here: [Material DevTools Theme Collection](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo))
+
 # DevTools Material Theme
 
 This is a Chrome extension that applies a different colour theme to the Chrome developer tools.
